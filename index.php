@@ -9,5 +9,6 @@
 <body>
     <h1>Praticando aula</h1>
     <p>testando uma nova branch</p>
+    <p>teste de pull request</p>
 </body>
 </html>
